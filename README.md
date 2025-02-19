@@ -74,8 +74,6 @@ $ rabbitmqadmin get queue='hello'
 
 
 
-# Домашнее задание к занятию "`Название занятия`" - `Фамилия и имя студента`
-
 ### Задание 1
 
 ![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-19%2022-18-41.png)
