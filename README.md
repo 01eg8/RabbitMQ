@@ -78,22 +78,20 @@ $ rabbitmqadmin get queue='hello'
 
 ### Задание 1
 
-![img]()
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-19%2022-18-41.png)
 
 ### Задание 2
 
-![img]()
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-16%2023-45-58.png)
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-16%2023-53-34.png)
 
 
 ### Задание 3
 
-![img]()
-
-
-### Задание 4
-
-![img]()
-![img]()
-![img]()
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-19%2022-18-41.png)
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-19%2021-54-03.png)
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-19%2016-37-41.png)
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-19%2022-26-48.png)
+![img](https://github.com/01eg8/RabbitMQ/blob/main/img/Screenshot%20from%202025-02-19%2021-55-56.png)
 
 
